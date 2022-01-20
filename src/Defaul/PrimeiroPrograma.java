@@ -15,7 +15,7 @@ public class PrimeiroPrograma {
 		n1 = 10;
 		n2 = 20;
 		
-		/*int soma, sub, mod, mult;
+		int soma, sub, mod, mult;
 		
 		soma = n1 +n2;
 		sub = n2 - n1;
